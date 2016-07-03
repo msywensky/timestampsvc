@@ -1,0 +1,20 @@
+{
+  "name": "timestamp_microservice",
+  "version": "0.1.0",
+  "description": "timestamp microservice",
+  "engines": {
+    "node": "5.9.1"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msywensky/timestampsvc"
+  },
+  "license": "MIT"
+}
